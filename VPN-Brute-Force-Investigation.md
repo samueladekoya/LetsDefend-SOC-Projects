@@ -37,7 +37,7 @@
 * **Findings:** The source IP `[37.19.221.229]` is classified as a known malicious scanner actively engaged in credential-harvesting and brute-force campaigns.
   
   ![Threat Intelligence Reputation](Screenshot%20(397).png)
-
+  ![Threat Intelligence Reputation](Screenshot%20(396).png)
 
 ### C. Security Risk Identification
 * **User Enumeration Vulnerability:** The VPN portal provides distinct error responses for invalid usernames vs. invalid passwords. This permits attackers to perform user enumeration to map active domain accounts prior to password-guessing attempts.
